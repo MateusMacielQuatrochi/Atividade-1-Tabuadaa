@@ -1,0 +1,25 @@
+{
+  "name": "atividade-1---tabuada",
+  "version": "1.0.0",
+  "description": "Atividade 1 Tabuada",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusMacielQuatrochi/Atividade-1---Tabuada.git"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "Mateus Maciel Quatrochi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusMacielQuatrochi/Atividade-1---Tabuada/issues"
+  }
+}
+
